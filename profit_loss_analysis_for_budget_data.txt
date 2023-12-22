@@ -1,0 +1,3 @@
+Analysis of Profit/Losses:
+Maximum change in Profit/Losses: 978586 on Jan-12
+Greatest decrease in Profit/Losses: -812361 on Jan-10
